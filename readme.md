@@ -2,6 +2,8 @@
 
 The repository for storing sourceCode learning Flutter widgets "Belajar Membuat Aplikasi Flutter untuk Pemula" from dicoding.com
 
+https://www.dicoding.com/users/yusmnn
+
 ## Widgets etc
 - Stateless widget
 - Statefull widget
@@ -17,3 +19,4 @@ The repository for storing sourceCode learning Flutter widgets "Belajar Membuat 
 - listview
 - media_query
 - navigation
+- etc
